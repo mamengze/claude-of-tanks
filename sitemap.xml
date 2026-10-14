@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SITE-ORIGIN placeholder: this build ships no production domain. Replace
+     https://mamengze.github.io/claude-of-tanks with your own origin (and add your routes) before
+     publishing. Kept as a valid skeleton so the file never points at the
+     upstream author's deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mamengze.github.io/claude-of-tanks/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

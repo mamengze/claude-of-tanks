@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mamengze.github.io/claude-of-tanks/sitemap.xml
